@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 """Counts the vowels in a user input string."""
 
 s = input("Enter any string: ")
