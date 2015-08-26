@@ -1,0 +1,9 @@
+- some string
+- 99
+- 18
+- ip_addr: 10.88.88.1
+  model: srx240h
+  platform: 12.1X44-D25.5
+  vendor: Juniper
+- another string
+- final string
